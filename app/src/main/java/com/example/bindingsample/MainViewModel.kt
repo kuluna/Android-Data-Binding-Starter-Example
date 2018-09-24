@@ -1,9 +1,9 @@
 package com.example.bindingsample
 
-import android.arch.lifecycle.MutableLiveData
-import android.databinding.ObservableBoolean
-import android.databinding.ObservableField
 import android.util.Log
+import androidx.databinding.ObservableBoolean
+import androidx.databinding.ObservableField
+import androidx.lifecycle.MutableLiveData
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
